@@ -7,7 +7,7 @@
     "start": "node server.js",
     "watch": "nodemon",
     "seed": "node seeders/seed.js",
-    "build": "craco build --openssl-legacy-provider"
+    "build": "npm install"
   },
   "keywords": [],
   "author": "",
