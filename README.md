@@ -8,7 +8,6 @@
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## <ins>Description</ins>
 
@@ -42,7 +41,7 @@ Available Seeds:
 
 This game is a online single player progression game that is live on Heroku.
 
-Link to Deployed Site: https://glacial-headland-73190.herokuapp.com/
+Link to Deployed Site: https://world-of-ascension.onrender.com/
 
 Upon arriving to the site, you will be presented with the Home Page. This will give you information about the game, and how to play.
 
